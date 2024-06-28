@@ -1,0 +1,21 @@
+{
+  "name": "myapiprofinal",
+  "version": "1.0.0",
+  "description": "Api Campus Desarrollo Gabriel Villalonga",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
